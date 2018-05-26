@@ -1,2 +1,2 @@
-#Swarm Simulation
-TestConfiguration.py not written by myself, used for testing. swarm and entities are, simulates swarming behavior. 
+Swarm Simulation.
+I wrote 'swarm.py' and 'entities.py'. 'TestConfiguration.py' was given.
