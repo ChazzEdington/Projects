@@ -1,2 +1,2 @@
 # Projects
-Contains School Projects
+Contains Various Projects
