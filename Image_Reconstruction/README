@@ -1,1 +1,1 @@
-R program which reconstructs images with eigen vectors. Run in a folder with 4 images named pic1.jpg, pic2.jpg, pic3.jpg, pic4.jpg. pic1 and pic2 must be the same size and pic3 and pic4 must be the same size.
+R program which reconstructs images with eigen vectors. Run in a folder with 4 images named pic1.jpg, pic2.jpg, pic3.jpg, pic4.jpg. pic1 and pic2 must be the same dimensions and pic3 and pic4 must be the same dimensions.
